@@ -59,7 +59,6 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [BookManagementSystem](https://github.com/harshad-Dhumane/BookManagementSystem) | REST backend for a bookshop with JWT auth, sessions and Express routing | Node.js, Express, JWT |
-| [first-node-app](https://github.com/harshad-Dhumane/first-node-app) | REST API with controllers, models and routes (MVC) | Node.js, Express, MongoDB |
 | [We-conn](https://github.com/harshad-Dhumane/We-conn) | Social media app for Android | Java, Android |
 | [Food_Distribution_Application](https://github.com/harshad-Dhumane/Food_Distribution_Application) | App for sharing excess food | Java, Android |
 
