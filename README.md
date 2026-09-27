@@ -11,7 +11,7 @@
 
 ### 🚀 About me
 
-- 💼 **Lead Software Engineer at CentraLogic** (Jul 2023 – present). I build backend and full stack features for a large US real estate agent platform.
+- 💼 **3+ years as a Lead Software Engineer**, building backend and full stack features for a large US real estate agent platform.
 - 🧩 I work on the **API and the app**: NestJS and Node.js services, React on the web, Flutter on mobile.
 - 👥 **Module Lead** for a team of 4 engineers. I handle code reviews, mentoring and technical delivery.
 - 🌱 Currently going deeper into **Docker, Redis, Kafka and system design**, and learning **Java Spring Boot**.
